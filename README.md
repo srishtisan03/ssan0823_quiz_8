@@ -35,3 +35,20 @@ Image processing libraries furnish pre-existing functions for color inversion, s
 
 [This example showcases color inversion using Pillow in Python](https://pillow.readthedocs.io/)
 
+The provided code snippet demonstrates how to invert an image using Pillow:
+
+```
+from PIL import ImageOps, Image
+
+# Load the image (replace with your filename)
+image = Image.open("original_image.jpg")
+
+# Invert the image colors
+inverted_image = ImageOps.invert(image)
+
+# Display the original and inverted image (optional)
+inverted_image.show()
+image.show()
+
+```
+
