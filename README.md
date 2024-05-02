@@ -17,7 +17,7 @@ In my project, I'll utilize color inversion to gain a fresh perspective on the c
 **Shift the Narrative:** Inverting the color scheme can transform the mood and symbolism of the artwork. A vibrant scene might take on a melancholic tone, encouraging viewers to reconsider the original message and explore new interpretations.
 
 
-![Color Inversion image 1](http:///Users/srishtisanghi/Documents/GitHub/ssan0823_quiz_8/readme_images/color_inversion-1.jpeg)
+![Color Inversion image 1](readme_images/color_inversion-1.jpeg)
 
 ## **Part 2: Coding Technique Exploration**
 
