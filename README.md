@@ -17,9 +17,21 @@ In my project, I'll utilize color inversion to gain a fresh perspective on the c
 **Shift the Narrative:** Inverting the color scheme can transform the mood and symbolism of the artwork. A vibrant scene might take on a melancholic tone, encouraging viewers to reconsider the original message and explore new interpretations.
 
 
-
-
-
-
-
 ![An image of a cat](http://placekitten.com/200/300)
+
+## **Part 2: Coding Technique Exploration**
+
+### **Technique:** Image Processing Libraries
+
+Numerous image processing libraries are available across different programming languages, providing capabilities for image manipulation, including color inversion.
+
+#### **Implementation:**
+Utilizing an image processing library such as Pillow (Python) or OpenCV (Python/C++), one can load the selected artwork and transform it into its negative counterpart using built-in functions. These libraries offer a straightforward and efficient approach to achieving the intended effect.
+
+#### **Benefits:**
+Image processing libraries furnish pre-existing functions for color inversion, streamlining the coding process and saving time. This enables a focus on the artistic elements of the project and the interaction between the inverted artwork and the original.
+
+#### **Example Code:**
+
+[This example showcases color inversion using Pillow in Python: ](https://pillow.readthedocs.io/)
+
