@@ -1,9 +1,8 @@
 # ssan0823_quiz_8
-My week 8 quiz
 
-# **Part 1: Imaging Technique Inspiration**
+## **Part 1: Imaging Technique Inspiration**
 
-## **Technique:** Color Inversion
+### **Technique:** Color Inversion
 
 Inverting colors is a straightforward technique that swaps the light and dark values of an image, essentially creating a negative version of the original. While appearing simple, it can yield dramatic and unexpected results.
 
