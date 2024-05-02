@@ -37,7 +37,7 @@ Image processing libraries furnish pre-existing functions for color inversion, s
 
 [This example showcases color inversion using Pillow in Python](https://pillow.readthedocs.io/)
 
-Example of the coding technique in action:
+**Example of the coding technique in action:**
 
 ![Color Inversion image 3](readme_images/colour_inversion_pillow.png) 
 
