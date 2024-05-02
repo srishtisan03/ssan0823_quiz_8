@@ -18,7 +18,7 @@ In my project, I'll utilize color inversion to gain a fresh perspective on the c
 
 ![Color Inversion image 1](readme_images/color_inversion-1.jpeg)
 
-![Color Inversion image 1](readme_images/color_inversion-2.jpeg)
+![Color Inversion image 2](readme_images/colour_inversion-2.jpeg)
 
 ## **Part 2: Coding Technique Exploration**
 
