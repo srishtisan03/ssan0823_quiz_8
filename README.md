@@ -17,7 +17,7 @@ In my project, I'll utilize color inversion to gain a fresh perspective on the c
 **Shift the Narrative:** Inverting the color scheme can transform the mood and symbolism of the artwork. A vibrant scene might take on a melancholic tone, encouraging viewers to reconsider the original message and explore new interpretations.
 
 
-![An image of a cat](http://placekitten.com/200/300)
+![Color Inversion image 1](http:///Users/srishtisanghi/Documents/GitHub/ssan0823_quiz_8/readme_images/color_inversion-1.jpeg)
 
 ## **Part 2: Coding Technique Exploration**
 
@@ -35,20 +35,5 @@ Image processing libraries furnish pre-existing functions for color inversion, s
 
 [This example showcases color inversion using Pillow in Python](https://pillow.readthedocs.io/)
 
-The provided code snippet demonstrates how to invert an image using Pillow:
 
-```
-from PIL import ImageOps, Image
-
-# Load the image (replace with your filename)
-image = Image.open("original_image.jpg")
-
-# Invert the image colors
-inverted_image = ImageOps.invert(image)
-
-# Display the original and inverted image (optional)
-inverted_image.show()
-image.show()
-
-```
 
