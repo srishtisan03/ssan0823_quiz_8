@@ -18,7 +18,7 @@ In my project, I'll utilize color inversion to gain a fresh perspective on the c
 
 Examples:
 
-![Color Inversion image 1](readme_images/color_inversion-1.jpeg)            ![Color Inversion image 2](readme_images/colour_inversion-2.jpeg)
+![Color Inversion image 1](readme_images/color_inversion-1.jpeg)  ![Color Inversion image 2](readme_images/colour_inversion-2.jpeg)
 
 
 ## **Part 2: Coding Technique Exploration**
@@ -39,7 +39,7 @@ Image processing libraries furnish pre-existing functions for color inversion, s
 
 Example of the coding technique in action:
 
-![Color Inversion image 3](readme_images/colour_inversion_pillow.png.jpeg) 
+![Color Inversion image 3](readme_images/colour_inversion_pillow.png.png) 
 
 
 
