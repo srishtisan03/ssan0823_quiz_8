@@ -39,7 +39,7 @@ Image processing libraries furnish pre-existing functions for color inversion, s
 
 Example of the coding technique in action:
 
-![Color Inversion image 3](readme_images/colour_inversion_pillow.png.png) 
+![Color Inversion image 3](readme_images/colour_inversion_pillow.png) 
 
 
 
